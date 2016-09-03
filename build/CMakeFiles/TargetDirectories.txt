@@ -1,7 +1,0 @@
-/home/piotr/Home_made_games/build/CMakeFiles/rebuild_cache.dir
-/home/piotr/Home_made_games/build/CMakeFiles/install.dir
-/home/piotr/Home_made_games/build/CMakeFiles/list_install_components.dir
-/home/piotr/Home_made_games/build/CMakeFiles/My_first_game.dir
-/home/piotr/Home_made_games/build/CMakeFiles/install/strip.dir
-/home/piotr/Home_made_games/build/CMakeFiles/install/local.dir
-/home/piotr/Home_made_games/build/CMakeFiles/edit_cache.dir
